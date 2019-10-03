@@ -23,7 +23,7 @@ and that counts as your first PR.
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/rafiudd/hacktoberfest19/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
-### Check our Website: <a href="https://rafiudd.github.io/hacktoberfest19/" target="blank"> https://rafiudd.github.io/hacktoberfest19/ </a>
+### Check Contributor at: <a href="https://rafiudd.github.io/hacktoberfest19/" target="blank"> https://rafiudd.github.io/hacktoberfest19/ </a>
 
 # Hacktoberfest2019
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
