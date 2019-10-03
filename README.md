@@ -1,19 +1,19 @@
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)]&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]&nbsp;
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)])&nbsp;
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)]&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]&nbsp;
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)])&nbsp;
 
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)]&nbsp;
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)]&nbsp;
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)]&nbsp;
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)]&nbsp;
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)]&nbsp;
 
 
-# Hacktoberfest2019
+## Hacktoberfest2019
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
@@ -25,7 +25,6 @@ and that counts as your first PR.
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
 ### Check Contributor at: <a href="https://rafiudd.github.io/hacktoberfest19/" target="blank"> https://rafiudd.github.io/hacktoberfest19/ </a>
 
-# Hacktoberfest2019
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
 
 # Instructions :
