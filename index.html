@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <style media="screen">
+		 body {
+		  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		  color: #404040;
+		  font-size: 14px;
+		  font-weight: 300;
+		  line-height: 22px;
+		  letter-spacing: .4px;
+		  background: #010101;
+		  padding-top: 30px;
+		}
+
+		.card {
+		  background-color: white;
+		  border-radius: 30px;
+		  display: flex;
+		  box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
+		  margin: 20px;
+		  position: relative;
+		  margin-bottom: 50px;
+		  transition: all .2s ease-in-out;
+		  box-shadow: 10px 10px 100px 0.5px rgba(244,244,244,1);		
+		}
+		.card:hover {
+		  box-shadow: none;
+		  margin-bottom: 54px;
+		}
+		.image img {
+			width: 20%;
+		}
+
+		.text {
+		  background: #FFF;
+		  padding: 20px;
+		  min-height: 200px;
+		}
+
+		.text p {
+		  margin-bottom: 0px;
+		}
+
+		.fab {
+		  width: 60px;
+		  height: 60px;
+		  border-radius: 50%;
+		  position: absolute;
+		  margin-top: -50px;
+		  right: 20px;
+		  box-shadow: 0px 2px 6px rgba(0, 0, 0, .3);
+		  color: #fff;
+		  font-size: 48px;
+		  line-height: 48px;
+		  text-align: center;
+		  background: #0066A2;
+		  -webkit-transition: -webkit-transform .2s ease-in-out;
+		  transition: transform .2s ease-in-out;
+		}
+
+		.fab:hover {
+		  background: #549D3C;
+		  cursor: pointer;
+		  -ms-transform: rotate(90deg);
+			-webkit-transform: rotate(90deg);
+			transform: rotate(90deg);
+		}
+		.card {
+			width: 80%;
+			display: flex;
+			margin: 0 auto;
+		}
+    </style>
+  </head>
+  <body>
+  	<h1 style="text-align: center;color: white;">Contributor</h1>
+  	<div style="margin-top: 50px;" class="container">
+	    <div class="row">
+	      <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-3 col-sm-offset-2">
+	        <div class="card">
+		        <div class="image" id="imaget">
+		        </div>
+
+		        <div class="text" id="texts">
+		        </div>
+
+	        </div>
+	      </div>
+	    </div>
+  	</div>
+
+    <script>
+    function get(){
+	  	fetch(`https://api.github.com/repos/rafiudd/hacktoberfest19/contributors`)
+		    .then( function(response){
+		      return response.json()
+	    })
+		.then(function(json){
+			var img = document.getElementById('imaget');
+			var teks = document.getElementById('texts');
+			let data,avatar,name;
+			for(let i = 0; i<json.length; i++) {
+				var namanama = ""
+				let gmb = ""
+
+				data = json[i];
+				avatar = data.avatar_url;
+				name = data.login;
+		      	console.log("test", avatar,name)
+		      	namanama += "<h3>" + name + "</h3>"
+		      	gmb += "<img src="+ avatar +">" 
+		      	// tr += "<td>" +  "<img class="image" src=" + avatar + "id=gambar>"+ "</td>" + "<td>" + name + "</td></tr>";
+		  		teks.innerHTML += namanama;
+		  		img.innerHTML +=gmb;
+
+
+			}
+
+		})
+	}
+	document.getElementById("get").innetHTML = get();
+    </script>
+  </body>
+</html>
