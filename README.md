@@ -38,11 +38,7 @@ and that counts as your first PR.
 ### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
-![fork](https://user-images.githubusercontent.com/42115530/65821168-aaf53080-e24f-11e9-8046-61bdf586d969.jpeg)
-
-![star](https://user-images.githubusercontent.com/42115530/65821169-ad578a80-e24f-11e9-90f6-37abbf9e8489.jpeg)
-
-###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, Open-Source-Contributors-JSS is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
+###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, Rafiudd is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
 
 <a href="https://github.com/rafiudd/hacktoberfest19" target="blank">https://github.com/rafiudd/hacktoberfest19</a>
 
@@ -59,22 +55,12 @@ https://github.com/your-username/hacktoberfest19.git
 
 ###### You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
-![clone](https://user-images.githubusercontent.com/42115530/65821242-abda9200-e250-11e9-9aa6-803a00b3d95f.jpeg)
-
-###### Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
-
-`git clone https://github.com/your-username/Hacktoberfest2019.git`
-
-![git 1](https://user-images.githubusercontent.com/42115530/65821267-f22ff100-e250-11e9-9f1e-813227cdd890.JPG)
-
-
 ### 4. Create a New Branch
 
 ###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. hacktoberfest19) to change into that directory.
 
 #####    ` cd hacktoberfest19`
 
-![git 2](https://user-images.githubusercontent.com/42115530/65821270-07a51b00-e251-11e9-9b0b-5103ef3e7fe6.JPG)
 
 ###### Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
@@ -84,74 +70,16 @@ https://github.com/your-username/hacktoberfest19.git
 
 ##### ` git checkout new-branch `
 
-![git 3](https://user-images.githubusercontent.com/42115530/65821271-0a077500-e251-11e9-872f-77b926c65660.JPG)
-
-###### Once you enter the git `checkout` command, you will receive the following output:
-
-######  `Output:` 
-#####  `Switched to branch 'new-branch' `
-
-###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
-
 ##### ` git add -A ` or ` git add . `
 
-![git 5](https://user-images.githubusercontent.com/42115530/65821274-0ffd5600-e251-11e9-864b-273efbbfedeb.JPG)
-
-###### Next, we’ll want to record the changes that we made to the repository with the git commit command.
-
-![git 6](https://user-images.githubusercontent.com/42115530/65821277-125fb000-e251-11e9-898a-42aa9c920416.JPG)
-
-###### The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way.Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the ##### ` contributing.md `
-
-
-###### If you have a very short message, you can record that with the -m flag and the message in quotes:
-
-###### ` Example: ` 
 ##### ` git commit -m "Updated Readme.md" `
 
 
 
-###### At this point you can use the git push command to push the changes to the current branch of your forked repository:
-###### ` Example:`
-##### ` git push --set-upstream origin new-branch `
+###### Then push to your local repository
+##### ` git push origin new-branch `
 
-![git 7](https://user-images.githubusercontent.com/42115530/65821278-14c20a00-e251-11e9-922b-b8f0df45486b.JPG)
-
-
-
-### 5. Update Local Repository
-
-###### While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes.
-
-###### We’ll first go over configuring a remote for the fork, then syncing the fork.
-
-### 6. Configure a Remote for the Fork
-
-###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
-
-##### ` git remote add upstream https://github.com/rafiudd/hacktoberfest19 `
-
-
-
-
-###### In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
-
-### 7. Sync the Fork
-
-###### Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
-###### To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the // git fetch // command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
-
-##### ` git fetch upstream `
-
-###### Switch to the local master branch of our repository:
-
-##### ` git checkout master `
-
-###### Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch:
-
-##### ` git merge upstream/master `
-
-### 8. Create Pull Request
+### 5. Create Pull Request
 
 ###### At this point, you are ready to make a pull request to the original repository.
 
@@ -164,13 +92,4 @@ https://github.com/your-username/hacktoberfest19.git
 ## Check your Hacktoberfest Contribution status at:
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
 
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://hacktoberfest.netlify.com/)
-
-> Made By Open Source Contributors JSS with ❤️
-> Open Source Contributors JSS &copy; 2019
-<br><br>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Open-Source-Contributors-JSS)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Open-Source-Contributors-JSS)
+> Made with ❤️
