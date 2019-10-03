@@ -17,17 +17,14 @@
 # Hacktoberfest2019
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your favorite git command and its short description in our 
-###### <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/json-files/git-commands.json" target="blank">https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/json-files/git-commands.json</a> 
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
+###### <a href="https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md" target="blank">https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md</a> 
 and that counts as your first PR.
-#### CAUTION: The description must be under 60 words at max. 
 
-Also, add your github username in the <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/contributers_list.md" target="blank">contributors_list.md</a>
-
-🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/tree/master/Intermediate" target="blank"> intermediate folder</a> and make contributions as per as your interests.
+🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/rafiudd/hacktoberfest19/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
-### Check our Website: <a href="https://hacktoberfest.netlify.com/" target="blank"> https://hacktoberfest.netlify.com/ </a>
+### Check our Website: <a href="https://rafiudd.github.io/hacktoberfest19/" target="blank"> https://rafiudd.github.io/hacktoberfest19/ </a>
 
 # Hacktoberfest2019
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
@@ -38,22 +35,7 @@ Also, add your github username in the <a href="https://github.com/Open-Source-Co
 
 ![register](https://user-images.githubusercontent.com/42115530/65821155-7f724600-e24f-11e9-90ed-8a956b0a854a.JPG)
 
-### 2. Getting Started
-#### See Our Website at: https://hacktoberfest.netlify.com/
-
-![website](https://user-images.githubusercontent.com/42115530/65821073-6f0d9b80-e24e-11e9-883e-262588bdef7f.JPG)
-
-#### Move to Instructions by clicking on the <pre>START CONTRIBUTING</pre> button 
-
-![start](https://user-images.githubusercontent.com/42115530/65821081-7fbe1180-e24e-11e9-8e98-756ce51d6431.JPG)
-
-#### Read the Instructions and click Done at the end to move to the repository or <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019">click here</a> to head to the repository.
-
-![instructions](https://user-images.githubusercontent.com/42115530/65821120-0a067580-e24f-11e9-8f06-bd231a6ab96d.JPG)
-
-![instructions 2](https://user-images.githubusercontent.com/42115530/65821196-ec85db80-e24f-11e9-8178-7ebbed1abd73.JPG)
-
-### 3. Star and Fork this Repository
+### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
 ![fork](https://user-images.githubusercontent.com/42115530/65821168-aaf53080-e24f-11e9-8046-61bdf586d969.jpeg)
@@ -62,7 +44,7 @@ Also, add your github username in the <a href="https://github.com/Open-Source-Co
 
 ###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, Open-Source-Contributors-JSS is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
 
-<a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019" target="blank">https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019</a>
+<a href="https://github.com/rafiudd/hacktoberfest19" target="blank">https://github.com/rafiudd/hacktoberfest19</a>
 
 ###### When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
@@ -73,7 +55,7 @@ Also, add your github username in the <a href="https://github.com/Open-Source-Co
 ###### We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
 
 ###### This URL will be similar to the URL above, except now it will end with `.git.` In the example above, the URL will look like this:
-https://github.com/your-username/Hacktoberfest2019.git
+https://github.com/your-username/hacktoberfest19.git
 
 ###### You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
@@ -88,9 +70,9 @@ https://github.com/your-username/Hacktoberfest2019.git
 
 ### 4. Create a New Branch
 
-###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest2019) to change into that directory.
+###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. hacktoberfest19) to change into that directory.
 
-#####    ` cd Hacktoberfest2019`
+#####    ` cd hacktoberfest19`
 
 ![git 2](https://user-images.githubusercontent.com/42115530/65821270-07a51b00-e251-11e9-9b0b-5103ef3e7fe6.JPG)
 
@@ -108,18 +90,6 @@ https://github.com/your-username/Hacktoberfest2019.git
 
 ######  `Output:` 
 #####  `Switched to branch 'new-branch' `
-
- 
-###### At this point, you can now modify existing files or add new files to the project on your own branch.
-###### Make sure you have read the <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/.github/ISSUE_TEMPLATE/contributing.md">contributing.md</a> before you start contributing such that you make remarkable and easily acceptable PRs.
-
-#### Make Changes Locally.For ex- When making your beginner level contribution in this repository,find <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/tree/master/beginner/json-files">git-commands.json</a> and add your favorite git command alongwith a two-three lines short description in the json file.
-
-###### CAUTION: JSON files follow a certain format, do not forget to add a comma before you start editing your block and it's good if you append a comma after finishing your block.
-
-#### Also, if you are interested in making intermediate or advanced level contributions, head to our <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/tree/master/Intermediate">intermediate section</a> and make your mark.
-
-![git 4](https://user-images.githubusercontent.com/42115530/65821272-0d026580-e251-11e9-927a-82703f921a74.JPG)
 
 ###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
 
@@ -159,7 +129,7 @@ https://github.com/your-username/Hacktoberfest2019.git
 
 ###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### ` git remote add upstream https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019 `
+##### ` git remote add upstream https://github.com/rafiudd/hacktoberfest19 `
 
 
 
