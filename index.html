@@ -74,6 +74,29 @@
 			display: flex;
 			margin: 0 auto;
 		}
+
+		.link{
+
+			display:flex;
+			justify-content:center;
+			margin-top:40px;
+		}
+
+		.link a{
+			
+			color:#FFF;
+			font-size:30px;
+
+		}
+
+		.names{
+
+			margin-top:10px;
+			padding-left:20px;
+			padding-right:20px;
+		}
+
+
     </style>
   </head>
   <body>
@@ -85,12 +108,15 @@
 		        <div class="image" id="imaget">
 		        </div>
 
-		        <div class="text" id="texts">
-		        </div>
-
-	        </div>
+		        <div class="names">
+				
+		    </div>
 	      </div>
 	    </div>
+	        <div class="link">
+		        <a href="https://github.com/rafiudd/hacktoberfest19">Visit the Repository
+		        </a>
+	       </div>
   	</div>
 
     <script>
@@ -101,7 +127,10 @@
 	    })
 		.then(function(json){
 			var img = document.getElementById('imaget');
-			var teks = document.getElementById('texts');
+
+			var divNames = document.querySelector(".names");
+
+			var linkRepositories = document.querySelector('.link_repositories');
 			let data,avatar,name;
 			for(let i = 0; i<json.length; i++) {
 				var namanama = ""
@@ -114,15 +143,21 @@
 		      	namanama += "<h3>" + name + "</h3>"
 		      	gmb += "<img src="+ avatar +">" 
 		      	// tr += "<td>" +  "<img class="image" src=" + avatar + "id=gambar>"+ "</td>" + "<td>" + name + "</td></tr>";
-		  		teks.innerHTML += namanama;
-		  		img.innerHTML +=gmb;
+		      	
+		  		img.innerHTML += gmb;
+
+		  		divNames.innerHTML +=
+		  		`
+		  		<a href="https://github.com/${name}" class="link">${name}</a>
+		  		`;
+
 
 
 			}
 
 		})
 	}
-	document.getElementById("get").innetHTML = get();
+	document.getElementById("get").innerHTML = get();
     </script>
   </body>
 </html>
