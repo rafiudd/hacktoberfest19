@@ -3,3 +3,4 @@
 3. Rizka Salma Adelia - Student, Indonesia
 4. Saurabh Tiwari - Student, India
 5. Harichane Ishak - Student, Algeria
+6. [Muhammad Salman Abid](https://github.com/beecoder77) - Student, Indonesia
