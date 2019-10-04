@@ -7,3 +7,6 @@
 7. [Matt](https://github.com/recalibrated) - Student, Berlin, Germany. 
 8. Christine Tu - Junior Software Developer, California, USA
 9. [Logan](https://github.com/LoganLilypad) - Student, USA
+10. [Logan](https://github.com/putuayu202) - Student, Indonesia
+
+
