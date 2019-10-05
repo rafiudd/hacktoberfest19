@@ -10,3 +10,4 @@
 10. [DwikyDanov Iswarnanu](https://github.com/putuayu202) - Student, Indonesia
 11. [hafidzamr](https://github.com/hafidzamr) - Student, Indonesia
 11. [Martin K](https://github.com/martink-rsa) - Student, South Africa
+12. [Kelvin Osh](https://github.com/kelvinosh) - Unemployed, USA
