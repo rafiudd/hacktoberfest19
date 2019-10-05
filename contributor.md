@@ -11,4 +11,5 @@
 11. [hafidzamr](https://github.com/hafidzamr) - Student, Indonesia
 11. [Martin K](https://github.com/martink-rsa) - Student, South Africa
 12. [Kelvin Osh](https://github.com/kelvinosh) - Unemployed, USA
-13. [Kim Kinal](http://github.com/kimkinal) - Student, South Korea
+13. [Franklin Henrique](https://github.com/franklinhenri) - Natal, Brasil
+14. [Kim Kinal](http://github.com/kimkinal) - Student, South Korea
