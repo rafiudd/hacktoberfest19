@@ -11,13 +11,19 @@
     <style media="screen">
       body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        color: #404040;
+        color: white;
         font-size: 14px;
         font-weight: 300;
         line-height: 22px;
         letter-spacing: 0.4px;
-        background: #010101;
         padding-top: 30px;
+
+        background: rgb(21,34,70);
+        background: linear-gradient(180deg, rgba(21,34,70,1) 0%, rgba(28,43,77,1) 20%, rgba(161,30,198,1) 100%);
+      }
+
+      p {
+        margin-right: 30px;
       }
 
       .card {
@@ -80,9 +86,7 @@
       }
 
       .link {
-        display: flex;
-        justify-content: center;
-        margin-top: 40px;
+        color: #58B4FF;
       }
 
       .link a {
@@ -102,7 +106,26 @@
     </style>
   </head>
   <body>
-    <h1 style="text-align: center;color: white;">Contributor</h1>
+    <img src="images/65826274-63949180-e29b-11e9-9c46-7740707c1702.png" style="width: 500px; float: left;">
+    <h1 style="font-size: 50px">Hacktoberfest2019 🎃</h1>
+    <p>
+        Happy Hacktober! This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
+    </p>
+    <p>
+        🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
+    </p>
+    <p>
+        https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md and that counts as your first PR.
+    </p>
+    <p>
+        🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our Resources folder and make contributions as per as your interests.
+    </p>
+    <p>
+        💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better.
+        Check Contributor at: <a class="link" href="https://rafiudd.github.io/hacktoberfest19/">https://rafiudd.github.io/hacktoberfest19/</a>
+    </p>
+    <h3 style="text-align: center;color: white; margin-top: 150px; font-size: 35px">Contributor</h3>
+
     <div style="margin-top: 50px;" class="container">
       <div class="row">
         <div
@@ -110,12 +133,14 @@
         >
           <div class="card">
             <div class="image" id="imaget"></div>
-
-            <div class="names"></div>
           </div>
         </div>
       </div>
     </div>
+
+    <br>
+
+    <p style="margin-top: 50px; background-color: #152246; padding: 15px;">Thanks <a class="link" href="https://github.com/rafiudd">rafiudd</a> for this repo!</p>
 
     <script>
       async function get() {
@@ -137,9 +162,8 @@
           let {login: user, avatar_url: imgUser} = listData;
 
           listName += `<h3>${user}</h3>"`;
-          listImg += `<img src="${imgUser}">`;
+          listImg += `<a href="https://github.com/${user}" ><img src="${imgUser}"></a>`;
           img.innerHTML += listImg;
-          divNames.innerHTML += `<a href="https://github.com/${user}" class="link">${user}</a>`;
         }
       }
       window.onload = get();
