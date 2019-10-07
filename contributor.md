@@ -14,3 +14,4 @@
 13. [Franklin Henrique](https://github.com/franklinhenri) - Natal, Brasil
 14. [Kim Kinal](http://github.com/kimkinal) - Student, South Korea
 15. [saguins](https://github.com/saguins) - Student, Thailand
+16. [Taylor L.](https://github.com/tleija) -Medical Coder, Idaho, USA
