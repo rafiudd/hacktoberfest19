@@ -9,14 +9,15 @@
 9. [Logan](https://github.com/LoganLilypad) - Student, USA
 10. [DwikyDanov Iswarnanu](https://github.com/putuayu202) - Student, Indonesia
 11. [hafidzamr](https://github.com/hafidzamr) - Student, Indonesia
-11. [Martin K](https://github.com/martink-rsa) - Student, South Africa
-12. [Kelvin Osh](https://github.com/kelvinosh) - Unemployed, USA
-13. [Franklin Henrique](https://github.com/franklinhenri) - Natal, Brasil
-14. [Kim Kinal](http://github.com/kimkinal) - Student, South Korea
-15. [saguins](https://github.com/saguins) - Student, Thailand
-16. [Taylor L.](https://github.com/tleija) -Medical Coder, Idaho, USA
-17. [Yusuf A.](https://github.com/sanxy) -Junior Software Developer, Lagos, NIGERIA
-18. [Gayath](https://github.com/gayathChandira) - Student, Sri Lanka
-19. [Sarthak Agrawal](https://github.com/sarthakagrawal9128) - Student, India
-20. [Arpit Bhattar](https://github.com/aptbhattar) - Student, India
-21. [Aidan Molloy](https://github.com/AidanMolloy) - Student, Ireland
+12. [Martin K](https://github.com/martink-rsa) - Student, South Africa
+13. [Kelvin Osh](https://github.com/kelvinosh) - Unemployed, USA
+14. [Franklin Henrique](https://github.com/franklinhenri) - Natal, Brasil
+15. [Kim Kinal](http://github.com/kimkinal) - Student, South Korea
+16. [saguins](https://github.com/saguins) - Student, Thailand
+17. [Taylor L.](https://github.com/tleija) -Medical Coder, Idaho, USA
+18. [Yusuf A.](https://github.com/sanxy) -Junior Software Developer, Lagos, NIGERIA
+19. [Gayath](https://github.com/gayathChandira) - Student, Sri Lanka
+20. [Sarthak Agrawal](https://github.com/sarthakagrawal9128) - Student, India
+21. [Arpit Bhattar](https://github.com/aptbhattar) - Student, India
+22. [Francis Calizo](https://github.com/franciscalizo) - Jr Software Developer, USA
+23. [Aidan Molloy](https://github.com/AidanMolloy) - Student, Ireland
