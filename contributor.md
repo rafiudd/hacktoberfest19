@@ -21,4 +21,4 @@
 21. [Arpit Bhattar](https://github.com/aptbhattar) - Student, India
 22. [Francis Calizo](https://github.com/franciscalizo) - Jr Software Developer, USA
 23. [Aidan Molloy](https://github.com/AidanMolloy) - Student, Ireland
-24.[Jones Cyril](https://github.com/chocopiee)- Student ,India
+24. [Jones Cyril](https://github.com/chocopiee)- Student ,India
