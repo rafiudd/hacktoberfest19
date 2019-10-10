@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>My Calculator</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel='stylesheet' type='text/css' media='screen' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
+    <link rel="stylesheet" href="jsCalculator.css">
+</head>
+<body class="bg-dark mt-5" style="box-sizing: border-box">
+    <!--calculator body-->
+    <div class="container-fluid d-flex justify-content-center" >
+    <div class="card text-white bg-success border-3" style="max-width: 20rem;">
+        <div class="card-header "><h1 class="float-right text-black-50"><b>JS Calculator</b></h1></div>
+        <div class="card-body">
+            <!--input fields for entering number-->
+                <input class="form-control form-control-lg" type="number" name="first-num" id="num1"  placeholder="Enter 1st Number"><i class="material-icons">
+                        keyboard
+                        </i>
+                <br>
+                <input class="form-control form-control-lg" type="number" name="second-num" id="num2"  placeholder="Enter 2nd Number"><i class="material-icons">
+                        keyboard
+                        </i>
+                <br>
+            <div class="container-fluid "><!--operation buttons-->
+               <button type="button" class="btn btn-dark btn-lg" onclick="sum()" ><h3>+</h3></button>
+               <button type="button" class="btn btn-dark btn-lg" onclick="diff()"><h3>-</h3></button>
+               <button type="button" class="btn btn-dark btn-lg" onclick="multi()"><h3>X</h3></button>
+               <button type="button" class="btn btn-dark btn-lg" onclick="by()"><h3>/</h3></button>
+            </div>
+               <br><!--reset button-->
+               <button type="button" class="btn btn-danger btn-sm btn-circle float-right" onclick="reset()"><b>C</b></button>
+               <br>
+               <br><!--output field-->
+          <input class="form-control form-control-lg" type="text" name="result" id="out"  placeholder="Result" disabled>
+       </div>
+      </div>
+    </div>
+    <!-- js for different calculation -->
+<script>
+    function sum(){
+    var x=parseFloat(document.querySelector("#num1").value);
+    var y=parseFloat(document.querySelector("#num2").value);
+    var r=x+y;
+    document.querySelector("#out").value=r;
+}sum();
+function diff(){
+    var x=parseFloat(document.querySelector("#num1").value);
+    var y=parseFloat(document.querySelector("#num2").value);
+    var r=x-y;
+    document.querySelector("#out").value=r;
+}diff();
+function multi(){
+    var x=parseFloat(document.querySelector("#num1").value);
+    var y=parseFloat(document.querySelector("#num2").value);
+    var r=x*y;
+    document.querySelector("#out").value=r;
+}multi();
+function by(){
+    var x=parseFloat(document.querySelector("#num1").value);
+    var y=parseFloat(document.querySelector("#num2").value);
+    var r=x/y;
+    document.querySelector("#out").value=r;
+}by();
+function reset(){
+    document.querySelector("#num1").value='';
+    document.querySelector("#num2").value='';
+    document.querySelector("#out").value='';
+
+}reset();
+</script>  
+</body>
+</html>
