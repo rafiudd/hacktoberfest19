@@ -25,5 +25,6 @@
 25. [Chirag Bablani](https://github.com/chiragbablani0) - Student, India
 26. Kevin Benny (https://github.com/1captain0)-Student - India
 27. [Jones Cyril](https://github.com/chocopiee)- Student ,India
-28. [MiryangJung](https://github.com/miryangjung) - Student, South Korea
-29. [Cristian Botella](https://github.com/cbh6)- Dev, Spain
+28. [Harsh Singh](https://github.com/harshsngh07)- Student, India
+29. [MiryangJung](https://github.com/miryangjung) - Student, South Korea
+30. [Cristian Botella](https://github.com/cbh6)- Dev, Spain
