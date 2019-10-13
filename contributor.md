@@ -28,4 +28,5 @@
 28. [Harsh Singh](https://github.com/harshsngh07)- Student, India
 29. [MiryangJung](https://github.com/miryangjung) - Student, South Korea
 30. [Cristian Botella](https://github.com/cbh6)- Dev, Spain
-29. [karthik Nannepamula](https://github.com/KarthikNannepamula)-Student-India
+31. [karthik Nannepamula](https://github.com/KarthikNannepamula)-Student-India
+32. [Mohd Mustak](https://github.com/mmstq)-student, India
