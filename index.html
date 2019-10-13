@@ -1,159 +1,172 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
     <title>HACKTOBERFEST</title>
 
     <style media="screen">
-		 body {
-		  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-		  color: #404040;
-		  font-size: 14px;
-		  font-weight: 300;
-		  line-height: 22px;
-		  letter-spacing: .4px;
-		  background: #010101;
-		  padding-top: 30px;
-		}
+      body {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        color: white;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 22px;
+        letter-spacing: 0.4px;
+        padding-top: 30px;
 
-		.card {
-		  background-color: white;
-		  border-radius: 30px;
-		  display: flex;
-		  box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
-		  margin: 20px;
-		  position: relative;
-		  margin-bottom: 50px;
-		  transition: all .2s ease-in-out;
-		  box-shadow: 10px 10px 100px 0.5px rgba(244,244,244,1);		
-		}
-		.card:hover {
-		  box-shadow: none;
-		  margin-bottom: 54px;
-		}
-		.image img {
-			width: 20%;
-		}
+        background: rgb(21,34,70);
+        background: linear-gradient(180deg, rgba(21,34,70,1) 0%, rgba(28,43,77,1) 20%, rgba(161,30,198,1) 100%);
+      }
 
-		.text {
-		  background: #FFF;
-		  padding: 20px;
-		  min-height: 200px;
-		}
+      p {
+        margin-right: 30px;
+      }
 
-		.text p {
-		  margin-bottom: 0px;
-		}
+      .card {
+        background-color: white;
+        border-radius: 30px;
+        display: flex;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
+        margin: 20px;
+        position: relative;
+        margin-bottom: 50px;
+        transition: all 0.2s ease-in-out;
+        box-shadow: 10px 10px 100px 0.5px rgba(244, 244, 244, 1);
+      }
+      .card:hover {
+        box-shadow: none;
+        margin-bottom: 54px;
+      }
+      .image img {
+        width: 20%;
+      }
 
-		.fab {
-		  width: 60px;
-		  height: 60px;
-		  border-radius: 50%;
-		  position: absolute;
-		  margin-top: -50px;
-		  right: 20px;
-		  box-shadow: 0px 2px 6px rgba(0, 0, 0, .3);
-		  color: #fff;
-		  font-size: 48px;
-		  line-height: 48px;
-		  text-align: center;
-		  background: #0066A2;
-		  -webkit-transition: -webkit-transform .2s ease-in-out;
-		  transition: transform .2s ease-in-out;
-		}
+      .text {
+        background: #fff;
+        padding: 20px;
+        min-height: 200px;
+      }
 
-		.fab:hover {
-		  background: #549D3C;
-		  cursor: pointer;
-		  -ms-transform: rotate(90deg);
-			-webkit-transform: rotate(90deg);
-			transform: rotate(90deg);
-		}
-		.card {
-			width: 80%;
-			display: flex;
-			margin: 0 auto;
-		}
+      .text p {
+        margin-bottom: 0px;
+      }
 
-		.link{
+      .fab {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        position: absolute;
+        margin-top: -50px;
+        right: 20px;
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+        color: #fff;
+        font-size: 48px;
+        line-height: 48px;
+        text-align: center;
+        background: #0066a2;
+        -webkit-transition: -webkit-transform 0.2s ease-in-out;
+        transition: transform 0.2s ease-in-out;
+      }
 
-			display:flex;
-			justify-content:center;
-			margin-top:40px;
-		}
+      .fab:hover {
+        background: #549d3c;
+        cursor: pointer;
+        -ms-transform: rotate(90deg);
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+      }
+      .card {
+        width: 80%;
+        display: flex;
+        margin: 0 auto;
+      }
 
-		.link a{
-			text-decoration: none !important;
-			color:#FFF;
-		}
+      .link {
+        color: #58B4FF;
+      }
 
-		.names {
-			margin-top: -20px;
-			padding-left:20px;
-			padding-right:20px;
-		}
-		.names a {
-			text-decoration: none;
-		}
+      .link a {
+        text-decoration: none !important;
+        color: #fff;
+      }
 
-
+      .names {
+        margin-top: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: 'Roboto', sans-serif;
+      }
+      .names a {
+        text-decoration: none;
+      }
     </style>
   </head>
   <body>
-  	<h1 style="text-align: center;color: white;">Contributor</h1>
-  	<div style="margin-top: 50px;" class="container">
-	    <div class="row">
-	      <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-3 col-sm-offset-2">
-	        <div class="card">
-		        <div class="image" id="imaget">
-		        </div>
+    <img src="images/65826274-63949180-e29b-11e9-9c46-7740707c1702.png" style="width: 500px; float: left;">
+    <h1 style="font-size: 50px">Hacktoberfest2019 🎃</h1>
+    <p>
+        Happy Hacktober! This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
+    </p>
+    <p>
+        🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
+    </p>
+    <p>
+        https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md and that counts as your first PR.
+    </p>
+    <p>
+        🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our Resources folder and make contributions as per as your interests.
+    </p>
+    <p>
+        💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better.
+        Check Contributor at: <a class="link" href="https://rafiudd.github.io/hacktoberfest19/">https://rafiudd.github.io/hacktoberfest19/</a>
+    </p>
+    <h3 style="text-align: center;color: white; margin-top: 150px; font-size: 35px">Contributor</h3>
 
-		        <div class="names">
-				
-		    </div>
-	      </div>
-	    </div>
-  	</div>
+    <div style="margin-top: 50px;" class="container">
+      <div class="row">
+        <div
+          class="col-md-6 col-sm-8 col-xs-12 col-md-offset-3 col-sm-offset-2"
+        >
+          <div class="card">
+            <div class="image" id="imaget"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+
+    <p style="margin-top: 50px; background-color: #152246; padding: 15px;">Thanks <a class="link" href="https://github.com/rafiudd">rafiudd</a> for this repo!</p>
 
     <script>
-    function get(){
-	  	fetch(`https://api.github.com/repos/rafiudd/hacktoberfest19/contributors`)
-		    .then( function(response){
-		      return response.json()
-	    })
-		.then(function(json){
-			var img = document.getElementById('imaget');
+      async function get() {
+        const res = await fetch(
+          'https://api.github.com/repos/rafiudd/hacktoberfest19/contributors',
+        );
+        const data = await res.json();
+        console.log(data);
 
-			var divNames = document.querySelector(".names");
+        let img = document.getElementById('imaget');
+        let divNames = document.querySelector('.names');
+        let linkRepo = document.querySelector('.link_repositories');
 
-			var linkRepositories = document.querySelector('.link_repositories');
-			let data,avatar,name;
-			for(let i = 0; i<json.length; i++) {
-				var namanama = ""
-				let gmb = ""
+        for (let i = 0; i < data.length; i++) {
+          let listName = '';
+          let listImg = '';
 
-				data = json[i];
-				avatar = data.avatar_url;
-				name = data.login;
-		      	console.log("test", avatar,name)
-		      	namanama += "<h3>" + name + "</h3>"
-		      	gmb += "<img src="+ avatar +">" 
-		      	// tr += "<td>" +  "<img class="image" src=" + avatar + "id=gambar>"+ "</td>" + "<td>" + name + "</td></tr>";
-		      	
-		  		img.innerHTML += gmb;
+          let listData = data[i];
+          let {login: user, avatar_url: imgUser} = listData;
 
-		  		divNames.innerHTML +=
-		  		`
-		  		<a href="https://github.com/${name}" class="link">${name}</a>
-		  		`;
-
-
-
-			}
-
-		})
-	}
-	document.getElementById("get").innerHTML = get();
+          listName += `<h3>${user}</h3>"`;
+          listImg += `<a href="https://github.com/${user}" ><img src="${imgUser}"></a>`;
+          img.innerHTML += listImg;
+        }
+      }
+      window.onload = get();
     </script>
   </body>
 </html>
