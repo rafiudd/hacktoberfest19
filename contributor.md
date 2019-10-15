@@ -32,5 +32,6 @@
 32. [Mohd Mustak](https://github.com/mmstq)-student, India
 33. [tanveer singh](https://github.com/tanverrin)-student, India
 34. [Vishal Sharma](https://github.com/Str4nge)-student, India
-34. [Samudra Gawang](https://github.com/rsamudragawang)-student, Indonesia
-35. [vivek gopalshetty](https://github.com/vivekgopalshetty)-student,India
+35. [Samudra Gawang](https://github.com/rsamudragawang)-student, Indonesia
+36. [vivek gopalshetty](https://github.com/vivekgopalshetty)-student,India
+37. [Yaashi Madan](https://github.com/ym2108)-Student, India
