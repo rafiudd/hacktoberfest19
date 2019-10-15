@@ -30,7 +30,12 @@
 30. [Cristian Botella](https://github.com/cbh6)- Dev, Spain
 31. [karthik Nannepamula](https://github.com/KarthikNannepamula)-Student-India
 32. [Mohd Mustak](https://github.com/mmstq)-student, India
-33. [tanveer singh](https://github.com/tanverrin)-student, India
+33. [tanveer singh](https://github.com/tanverrin)-student, South delhi
 34. [Vishal Sharma](https://github.com/Str4nge)-student, India
 34. [Samudra Gawang](https://github.com/rsamudragawang)-student, Indonesia
 35. [Siddhant](https://github.com/Siddhant312)-student, India
+36. [Manav Yadav](https://github.com/manavy1998)-student, Indi
+37. [Sidhantha Poddar](https://github.com/sidh1999) - student, India
+38. [shikharmat99](https://github.com/shikharmat99)-student, India
+39. [vivek gopalshetty](https://github.com/vivekgopalshetty)-student,India
+40. [Yaashi Madan](https://github.com/ym2108)-Student, India
