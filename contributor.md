@@ -1,3 +1,5 @@
+# List of Contributor
+
 1. [Rayhan Rafiud Darojat](https://github.com/rafiudd) - Student, Indonesia
 2. [Vishesh Kothari - Student](https://github.com/vishy-kothari-96), India
 3. [Rizka Salma Adelia - Student](https://github.com/rizkasalmaadelia), Indonesia
@@ -23,7 +25,7 @@
 23. [Aidan Molloy](https://github.com/AidanMolloy) - Student, Ireland
 24. [Jdon707](https://github.com/Jdon707) - Student, India
 25. [Chirag Bablani](https://github.com/chiragbablani0) - Student, India
-26. Kevin Benny (https://github.com/1captain0)-Student - India
+26. [Kevin Benny](https://github.com/1captain0)-Student - India
 27. [Jones Cyril](https://github.com/chocopiee)- Student ,India
 28. [Harsh Singh](https://github.com/harshsngh07)- Student, India
 29. [MiryangJung](https://github.com/miryangjung) - Student, South Korea
@@ -32,10 +34,11 @@
 32. [Mohd Mustak](https://github.com/mmstq)-student, India
 33. [tanveer singh](https://github.com/tanverrin)-student, South delhi
 34. [Vishal Sharma](https://github.com/Str4nge)-student, India
-34. [Samudra Gawang](https://github.com/rsamudragawang)-student, Indonesia
-35. [Siddhant](https://github.com/Siddhant312)-student, India
-36. [Manav Yadav](https://github.com/manavy1998)-student, Indi
-37. [Sidhantha Poddar](https://github.com/sidh1999) - student, India
-38. [shikharmat99](https://github.com/shikharmat99)-student, India
-39. [vivek gopalshetty](https://github.com/vivekgopalshetty)-student,India
-40. [Yaashi Madan](https://github.com/ym2108)-Student, India
+35. [Samudra Gawang](https://github.com/rsamudragawang)-student, Indonesia
+36. [Siddhant](https://github.com/Siddhant312)-student, India
+37. [Manav Yadav](https://github.com/manavy1998)-student, Indi
+38. [Sidhantha Poddar](https://github.com/sidh1999) - student, India
+39. [shikharmat99](https://github.com/shikharmat99)-student, India
+40. [vivek gopalshetty](https://github.com/vivekgopalshetty)-student,India
+41. [Yaashi Madan](https://github.com/ym2108)-Student, India
+42. [goeroeku](https://github.com/goeroeku) - Dev, Indonesia
