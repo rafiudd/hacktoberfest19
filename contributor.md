@@ -44,3 +44,4 @@
 42. [goeroeku](https://github.com/goeroeku) - Dev, Indonesia
 43. [Aditya Dehal](https://github.com/aditya2000/) - Student, India
 44. [Dada Abdulrasheed](https://github.com/iamhabee/) - Junior Software Developer, Lagos, NIGERIA
+45. [Mihir Soni](https://github.com/mihirsoni826) - Student, India
