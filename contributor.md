@@ -47,3 +47,4 @@
 45. [Dada Abdulrasheed](https://github.com/iamhabee/) - Junior Software Developer, Lagos, NIGERIA
 46. [Piyush Kumar(https://github.com/piyushkumarsingh) - Student , India
 47. [Mihir Soni](https://github.com/mihirsoni826) - Student, India
+48. [Wellington Vitor](https://github.com/wellingtonvitor) - São Paulo, Brasil
