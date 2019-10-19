@@ -12,7 +12,7 @@
         $ip = '192.168.178.10';
 
         // Read the data from the API 
-        $datafromfile = file_get_contents('http://IPOFYOURSYMO/solar_api/v1/GetPowerFlowRealtimeData.fcgi');
+        $datafromfile = file_get_contents("http://$ip/solar_api/v1/GetPowerFlowRealtimeData.fcgi");
 
         // Decode json Data to Array
         $data = json_decode($datafromfile,true);
