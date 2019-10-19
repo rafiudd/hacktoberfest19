@@ -1,8 +1,14 @@
-.border-3{
-    border:  10px solid #95f3a2;
-    border-radius: 10px;
+.border-3 {
+    border: 10px solid #95f3a2;
+    border-radius: 11px;
 
 }
+
+.b {
+    min-width: 50px;
+
+}
+
 .btn-circle {
     width: 30px;
     height: 30px;

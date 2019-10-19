@@ -17,8 +17,7 @@
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
-###### <a href="https://github.com/Viratsinha" target="blank">\https://github.com/Viratsinha</a> 
-and that counts as your first PR.
+###### <a href="https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md" target="blank">https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md</a> and that counts as your first PR.
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/rafiudd/hacktoberfest19/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
@@ -83,7 +82,8 @@ https://github.com/your-username/hacktoberfest19.git
 
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-## Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+## Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃   
+note :: organise community hacktober participation!
 
 ## Happy?? Star ⭐ this Repo. 🤩
 
