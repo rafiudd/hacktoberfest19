@@ -103,6 +103,14 @@
       .names a {
         text-decoration: bold;
       }
+      .footerdiv{
+        background-color: #152246; 
+        margin-top: 50px; 
+      }
+      .footerdiv p{
+        padding: 15px;
+        text-align: center;
+      }
     </style>
   </head>
   <body>
@@ -142,8 +150,10 @@
 
     <br>
 
-    <p style="margin-top: 50px; background-color: #152246; padding: 15px;">Thanks <a class="link" href="https://github.com/rafiudd">rafiudd</a> for this repo!</p>
-
+    <div class="footerdiv">
+      <p>Thanks <a class="link" href="https://github.com/rafiudd">rafiudd</a> for this repo!</p>
+      <p>Made with <span style="color:#f00;">&hearts;</span> &  &lt;/&gt; on GitHub</p>
+  </div>
     <script>
       async function get() {
         const res = await fetch(
