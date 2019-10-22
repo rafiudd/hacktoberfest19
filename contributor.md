@@ -49,3 +49,5 @@
 47. [Mihir Soni](https://github.com/mihirsoni826) - Student, India
 48. [Wellington Vitor](https://github.com/wellingtonvitor) - São Paulo, Brasil
 49. [Martin Riese](https://github.com/grauehaare) - Germany
+50. [charlyTochi](https://github.com/charlyTochi) - Nigeria
+
