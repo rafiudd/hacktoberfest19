@@ -1,4 +1,4 @@
-# List of Contributor
+﻿# List of Contributor
 
 1. [Rayhan Rafiud Darojat](https://github.com/rafiudd) - Student, Indonesia
 2. [Vishesh Kothari - Student](https://github.com/vishy-kothari-96), India
@@ -50,4 +50,5 @@
 48. [Wellington Vitor](https://github.com/wellingtonvitor) - São Paulo, Brasil
 49. [Martin Riese](https://github.com/grauehaare) - Germany
 50. [charlyTochi](https://github.com/charlyTochi) - Nigeria
+51. [AngelikiLk](https://github.com/AngelikiLk) - UK
 
