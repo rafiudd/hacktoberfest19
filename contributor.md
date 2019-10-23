@@ -50,5 +50,6 @@
 48. [Wellington Vitor](https://github.com/wellingtonvitor) - São Paulo, Brasil
 49. [Martin Riese](https://github.com/grauehaare) - Germany
 50. [charlyTochi](https://github.com/charlyTochi) - Nigeria
-51. [Piyush Kumar](https://github.com/KPK30) - India
-52. [E1saone](https://github.com/charlyTochi/E1saone) - L.A.
+51. [Ukpowe Efezino](https://github.com/zheeno) - Nigeria
+52. [Piyush Kumar](https://github.com/KPK30) - India
+53. [E1saone](https://github.com/charlyTochi/E1saone) - L.A.
