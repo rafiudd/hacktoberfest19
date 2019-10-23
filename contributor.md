@@ -51,4 +51,4 @@
 49. [Martin Riese](https://github.com/grauehaare) - Germany
 50. [charlyTochi](https://github.com/charlyTochi) - Nigeria
 51. [Piyush Kumar](https://github.com/KPK30) - India
-
+52. [E1saone](https://github.com/charlyTochi/E1saone) - L.A.
