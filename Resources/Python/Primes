@@ -1,16 +1,16 @@
-your_num = int(raw_input());
+your_num = int(raw_input())
 
 if your_num > 0:
     if your_num > 1:
     for i in range(2,your_num/2)
       if (your_num % i) == 0:
-        print("The number", your_num ,"not prime");
+        print("The number", your_num ,"not prime")
         break
       else:
-        Print("The number", your_num ,"is prime");
+        Print("The number", your_num ,"is prime")
   else:
-    Print("Not prime");   
+    Print("Not prime")
 else:
-  Print("Enter number greater than 0");
+  Print("Enter number greater than 0")
 
-return 0;
+return 0
