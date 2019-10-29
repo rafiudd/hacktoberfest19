@@ -5,7 +5,7 @@
 3. [Rizka Salma Adelia - Student](https://github.com/rizkasalmaadelia), Indonesia
 4. Saurabh Tiwari - Student, India
 5. Harichane Ishak - Student, Algeria
-6. [Marisa] (https://github.com/marisawadsworth)
+6. [Marisa](https://github.com/marisawadsworth)
 7. [Muhammad Salman Abid](https://github.com/beecoder77) - Student, Indonesia
 8. [Matt](https://github.com/recalibrated) - Student, Berlin, Germany.
 9. Christine Tu - Junior Software Developer, California, USA
@@ -59,3 +59,4 @@
 57. [La Dzunnafi Arridlwany](https://github.com/iDzuna96) - Dev amin, Indonesia
 58. [Ayushdeep Dabas](https://github.com/Ayush-D) - India
 59. [Putu Eka Mulyana](https://github.com/putu-eka-mulyana)-Indonesia
+60. [Abhinav Akhil](https://github.com/abhinavakhil)
