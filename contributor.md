@@ -45,7 +45,7 @@
 43. [goeroeku](https://github.com/goeroeku) - Dev, Indonesia
 44. [Aditya Dehal](https://github.com/aditya2000/) - Student, India
 45. [Dada Abdulrasheed](https://github.com/iamhabee/) - Junior Software Developer, Lagos, NIGERIA
-46. [Piyush Kumar(https://github.com/piyushkumarsingh) - Student , India
+46. [Piyush Kumar](https://github.com/piyushkumarsingh) - Student , India
 47. [Mihir Soni](https://github.com/mihirsoni826) - Student, India
 48. [Wellington Vitor](https://github.com/wellingtonvitor) - São Paulo, Brasil
 49. [Martin Riese](https://github.com/grauehaare) - Germany
@@ -64,3 +64,4 @@
 62. [Veena Rawat](https://github.com/veenarawat) - India
 63. [Dulya Perera](https://github.com/Dulya-Perera) - Sri Lanka
 64. [Prakash Pun](https://github.com/skrillzen)-Nepal
+65. [Bryan Culver](https://github.com/Bryan-Culver) - Amature Developer - Albany, NY, USA
