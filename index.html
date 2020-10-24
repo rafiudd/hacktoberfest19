@@ -2,13 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
-      rel="stylesheet"
-    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Hacktoberfest 2019" />
+    <meta name="keywords" content="github, hacktoberfest, octocat" />
+    <meta name="theme-color" content="#a11ec6" />
+    <!-- <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
     <title>HACKTOBERFEST 2019</title>
-
     <style media="screen">
       body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -22,7 +23,6 @@
         background: rgb(21,34,70);
         background: linear-gradient(180deg, rgba(21,34,70,1) 0%, rgba(28,43,77,1) 20%, rgba(161,30,198,1) 100%);
       }
-
       p {
         margin-right: 30px;
       }
@@ -31,11 +31,10 @@
         border-radius: 30px;
         display: flex;
         box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
-        margin: 20px;
         position: relative;
-        margin-bottom: 50px;
         transition: all 0.2s ease-in-out;
         box-shadow: 10px 10px 100px 0.5px rgba(244, 244, 244, 1);
+        margin: 0 auto;
       }
       .card:hover {
         box-shadow: none;
@@ -44,17 +43,14 @@
       .image img {
         width: 20%;
       }
-
       .text {
         background: #fff;
         padding: 20px;
         min-height: 200px;
       }
-
       .text p {
         margin-bottom: 0px;
       }
-
       .fab {
         width: 60px;
         height: 60px;
@@ -71,7 +67,6 @@
         -webkit-transition: -webkit-transform 0.2s ease-in-out;
         transition: transform 0.2s ease-in-out;
       }
-
       .fab:hover {
         background: #549d3c;
         cursor: pointer;
@@ -79,11 +74,7 @@
         -webkit-transform: rotate(90deg);
         transform: rotate(90deg);
       }
-      .card {
-        width: 80%;
-        display: flex;
-        margin: 0 auto;
-      }
+
 
       .link {
         color: #58B4FF;
@@ -138,9 +129,7 @@
 
     <div style="margin-top: 50px;" class="container">
       <div class="row">
-        <div
-          class="col-md-6 col-sm-8 col-xs-12 col-md-offset-3 col-sm-offset-2"
-        >
+        <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-3 col-sm-offset-2">
           <div class="card">
             <div class="image" id="imaget"></div>
           </div>
@@ -153,7 +142,7 @@
     <div class="footerdiv">
       <p>Thanks <a class="link" href="https://github.com/rafiudd">rafiudd</a> for this repo!</p>
       <p>Made with <span style="color:#f00;">&hearts;</span> &  &lt;/&gt; on GitHub</p>
-  </div>
+    </div>
     <script>
       async function get() {
         const res = await fetch(
